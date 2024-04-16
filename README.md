@@ -1,4 +1,4 @@
-
+For more details, refer to the official documentation [here]([https://docs.github.com/actions/security-guides/encrypted-secrets](https://medium.com/@sankalp09ghosh/setting-up-laravel-hr-management-system-website-with-aws-services-881956177ebc)).
 # Installation
  Follow these steps to install the application.
 
